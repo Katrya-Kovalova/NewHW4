@@ -87,3 +87,10 @@ p {
   font-size: 28px;
   text-decoration: none;
 }
+.img-fluid {
+  max-width: 65%;
+  height: auto;
+}
+.about-section-content {
+  margin: 30px;
+}
