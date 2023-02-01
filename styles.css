@@ -117,3 +117,7 @@ p {
 .content p {
   font-size: 14px;
 }
+.logo {
+  max-height: 40px;
+  padding: 10px 10px;
+}
