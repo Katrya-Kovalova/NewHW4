@@ -135,3 +135,8 @@ footer .social-links a {
   font-size: 18px;
   transition: all 100ms ease-in-out;
 }
+footer .email-link {
+  text-decoration: none;
+  color: black;
+  font-size: 24px;
+}
